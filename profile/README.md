@@ -1,8 +1,32 @@
-# README
-Salween Group is a content-driven B2B marketing agency. We design and run integrated marketing programmes for growth-stage companies.
-## What's it for?
-We are a very tech-enabled agency. We build and maintain internal tools, automation, and client-facing code to support the programmes we run.
+# Salween Group
 
-This GitHub account is where we develop and version some of that work. You'll find repositories here that we use internally, as well as code shared directly with clients and partners as part of programme delivery.
+**Content-driven B2B marketing, built on code as much as craft.**
 
-If you've been given access to a specific repository, it's because it's relevant to the work we're doing together.
+We're a B2B content marketing agency headquartered in Singapore. We run integrated programmes for growth stage companies across Southeast Asia and APAC — strategy, content, distribution, and measurement under one senior-led team.
+
+This is our public GitHub. It exists because we think marketing agencies should be technically literate, not just creatively capable.
+
+## Why We're Here
+
+Most marketing agencies treat technology as a procurement decision. We treat it as a capability.
+
+We build internal tools, automate repetitive work, and write code to solve problems that off-the-shelf platforms don't address well. Our programmes run on systems we've designed to connect content production, distribution, and measurement — so every output is traceable to a defined outcome.
+
+That means our team writes Python, R and lately Markdown alongside editorial briefs. It means we prototype dashboards before we pitch them. It means when we say "full-funnel measurement," there's infrastructure behind it.
+
+## What You'll Find Here
+
+- **Internal tooling** — utilities and automations that power our programme delivery
+- **Data and analytics** — scripts, integrations, and reporting frameworks we use across client programmes
+- **Experiments** — working prototypes where we test new approaches to content operations, AI-assisted workflows, and marketing automation
+
+Not everything here is polished. Some of it is rough, in-progress, or built for a single purpose. That's the point. We ship tools that work, then improve them.
+
+## How We Think About Technology
+
+Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our journalists, strategists, and programme leads spend their time on the work that actually requires expertise — original research, strategic thinking, and content that competitors can't replicate from a desk.
+
+## Get in Touch
+
+**Website:** [salweengroup.com](https://salweengroup.com)
+**LinkedIn:** [Salween Group](https://www.linkedin.com/company/salween-group)
