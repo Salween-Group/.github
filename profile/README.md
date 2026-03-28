@@ -2,7 +2,7 @@
 
 **Content-driven B2B marketing, built on code as much as craft.**
 
-We're a B2B content marketing agency headquartered in Singapore. We run integrated programmes for growth stage companies across Southeast Asia and APAC — strategy, content, distribution, and measurement under one senior-led team.
+We're a B2B content marketing agency headquartered in Singapore. We run integrated programmes for growth-stage companies across Southeast Asia and APAC — strategy, content, distribution, and measurement — under a team managed by award-winning former journalists.
 
 This is our public GitHub. It exists because we think marketing agencies should be technically literate, not just creatively capable.
 
@@ -11,6 +11,8 @@ This is our public GitHub. It exists because we think marketing agencies should 
 Most marketing agencies treat technology as a procurement decision. We treat it as a capability.
 
 We build internal tools, automate repetitive work, and write code to solve problems that off-the-shelf platforms don't address well. Our programmes run on systems we've designed to connect content production, distribution, and measurement — so every output is traceable to a defined outcome.
+
+We thrive at the intersection of marketing and sales, enabling buyer journeys from raised hand to revenue.
 
 That means our team writes Python, R and lately Markdown alongside editorial briefs. It means we prototype dashboards before we pitch them. It means when we say "full-funnel measurement," there's infrastructure behind it.
 
