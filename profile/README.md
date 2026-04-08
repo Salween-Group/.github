@@ -26,7 +26,7 @@ Not everything here is polished. Some of it is rough, in-progress, or built for 
 
 ## How We Think About Technology
 
-Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our creatives, strategists, and programme leads spend their time on the work that actually requires expertise — original research, strategic thinking, and content that competitors can't replicate from a desk.
+Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our creatives, strategists, and programme leads spend their time on the work that actually requires expertise — original research, strategic thinking, and content that competitors can't replicate sitting behind a desk.
 
 ## Get in Touch
 
