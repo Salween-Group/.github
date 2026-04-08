@@ -1,6 +1,6 @@
 # Salween Group
 
-**Content-driven B2B marketing, built on code as much as craft.**
+**Content-driven B2B marketing, built on code AND craft.**
 
 We're a B2B content marketing agency headquartered in Singapore. We run integrated programmes for growth-stage companies across Southeast Asia and APAC — strategy, content, distribution, and measurement — under a team managed by award-winning former journalists.
 
