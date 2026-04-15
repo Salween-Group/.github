@@ -14,7 +14,7 @@ We build internal tools, automate repetitive work, and write code to solve probl
 
 We thrive at the intersection of marketing and sales, enabling buyer journeys from raised hand to revenue.
 
-That means our team writes Python, R and lately Markdown alongside editorial briefs. It means we prototype dashboards before we pitch them. It means when we say "full-funnel measurement," there's infrastructure behind it.
+That means our team writes Python, R and lately Markdown alongside editorial briefs. When we say "full-funnel measurement," there's infrastructure behind it.
 
 ## What You'll Find Here
 
@@ -26,7 +26,7 @@ Not everything here is polished. Some of it is rough, in-progress, or built for 
 
 ## How We Think About Technology
 
-Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our creatives, strategists, and programme leads spend their time on the work that actually requires expertise — original research, strategic thinking, and content that competitors can't replicate sitting behind a desk.
+Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our team members spend their time on the work that taps their expertise — original research, strategic thinking, and content that competitors can't replicate sitting behind a desk.
 
 ## Get in Touch
 
