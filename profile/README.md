@@ -1,10 +1,10 @@
 # Salween Group
 
-**Content-driven B2B marketing, built on code AND craft.**
+**Content-driven B2B marketing, built on craft AND code.**
 
 We're a B2B content marketing agency headquartered in Singapore. We run integrated programmes for growth-stage companies across Southeast Asia and APAC — strategy, content, distribution, and measurement — under a team managed by award-winning former journalists.
 
-This is our public GitHub. It exists because we think marketing agencies should be technically literate, not just creatively capable.
+This is our public GitHub. It exists because we think marketing agencies should be technically literate, not just creatively capable. Our operations team is a USP.
 
 ## Why We're Here
 
@@ -22,11 +22,11 @@ That means our team writes Python, R and lately Markdown alongside editorial bri
 - **Data and analytics** — scripts, integrations, and reporting frameworks we use across client programmes
 - **Experiments** — working prototypes where we test new approaches to content operations, AI-assisted workflows, and marketing automation
 
-Not everything here is polished. Some of it is rough, in-progress, or built for a single purpose. That's the point. We ship tools that work, then improve them.
+Not everything here is polished. Some of it is rough, in-progress, or built for a single purpose. That's the point. We ship tools that work, then improve them. And sorry, not sorry, most of this is private to our clients and our team.
 
 ## How We Think About Technology
 
-Technology doesn't replace editorial judgement. It removes the friction around it. We invest in technical capability so our team members spend their time on the work that taps their expertise — original research, strategic thinking, and content that competitors can't replicate sitting behind a desk.
+Technology doesn't replace human judgment. It removes the friction around it. We invest in technical capability so our team members can spend their time on the work that matters — original research, strategic thinking, and creating content that can't be replicated from behind a desk.
 
 ## Get in Touch
 
