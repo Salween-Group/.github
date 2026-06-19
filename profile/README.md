@@ -4,11 +4,11 @@
 
 Salween Group is a content-driven B2B marketing agency headquartered in Singapore. We run integrated programmes for growth-stage companies globally, with a particular focus on Southeast Asia and APAC. Our full-funnel, omnichannel approach incorporates strategy, content, distribution, and measurement — all under the leadership of award-winning former journalists.
 
-This is our public GitHub. It exists because technical literacy is part of our USP. We are not just creatively capable; our operations team looks at the buyer journey from raised hand to revenue.
+This is our public GitHub. It exists because technical literacy is part of our USP. We are not just creatively capable; our operations team looks at the buyer journey from raised hand to revenue and technology plays a big part in that.
 
 **Why We're Here**
 
-Most marketing agencies treat technology as a procurement decision focused on commercial-off-the-shelf solutions (COTS). We treat technology as a core capability.
+Most marketing agencies treat technology as a procurement decision focused on commercial-off-the-shelf solutions (COTS). We treat technology and bespoke development as a core capability.
 
 We build internal tools, automate repetitive work, and write code to solve problems that COTS platforms don't address well. Our programmes run on systems we've designed to connect content production, distribution, and measurement — so every _output_ is traceable to a defined _outcome._
 
